@@ -1,0 +1,66 @@
+# DIST
+
+/dist
+
+
+# NODE
+
+/node_modules
+
+
+# COMPOSER
+
+/vendor
+
+
+# PHPSTORM
+
+.idea
+
+
+# FILESYSTEM (MacOS, Windows)
+
+*.bak
+*.swp
+*~
+._*
+.cvs
+.DS_Store
+.svn
+Thumbs.db
+
+
+# LARGE FILES
+
+*.3gp
+*.3gpp
+*.asf
+*.asx
+*.avi
+*.bin
+*.deb
+*.dll
+*.dmg
+*.exe
+*.flv
+*.hqx
+*.img
+*.iso
+*.kar
+*.m4a
+*.m4v
+*.mid
+*.midi
+*.mng
+*.mov
+*.mp3
+*.mp4
+*.mpeg
+*.mpg
+*.msi
+*.msm
+*.msp
+*.ogg
+*.ra
+*.webm
+*.wmv
