@@ -1,0 +1,13 @@
+{
+    "name": "justin/books",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Justin Fulton",
+            "email": "justin@brightfire.com"
+        }
+    ],
+    "require-dev": {
+        "lucatume/wp-browser": "^3.1"
+    }
+}
